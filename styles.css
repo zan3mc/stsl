@@ -1,0 +1,23 @@
+.heading {
+    font-weight : bold;
+}
+
+a:link {
+    color : brown
+}
+
+a:visited {
+    color : blue
+}
+
+a:hover {
+    color : red
+}
+
+.links {
+    font-size: 20pt;
+}
+
+.description {
+    font-size: 16pt;
+}
